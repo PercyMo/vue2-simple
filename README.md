@@ -1,6 +1,6 @@
-# ele-vue-app
+# 仿照饿了吗商家模块
 
-> A Vue.js project
+> 纯个人练习项目，学习者请转到黄轶老师账号下查看源码
 
 ## Build Setup
 
